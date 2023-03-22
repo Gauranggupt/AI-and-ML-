@@ -1,1 +1,1 @@
-This is the whole code to preprocess the titanic dataset from Kaggle.
+This is the code to preprocess the titanic dataset from Kaggle.
